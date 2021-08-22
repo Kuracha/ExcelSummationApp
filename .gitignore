@@ -2,6 +2,7 @@
 .idea
 .settings
 .project
+settings_local*
 env*
 public
 apps_static
@@ -20,3 +21,4 @@ src/*
 local_migrate_mysql_to_pg.sh
 local_simplifee_skrypt.sql
 local_migrate.load
+
