@@ -20,3 +20,4 @@ src/*
 local_migrate_mysql_to_pg.sh
 local_simplifee_skrypt.sql
 local_migrate.load
+.settings_local.py
