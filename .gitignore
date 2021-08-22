@@ -2,7 +2,7 @@
 .idea
 .settings
 .project
-.settings_local*
+settings_local*
 env*
 public
 apps_static
